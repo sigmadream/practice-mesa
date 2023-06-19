@@ -1,0 +1,5 @@
+mesa
+jupyterlab
+seaborn
+pandas
+scikit-learn
